@@ -1,31 +1,31 @@
 import React from 'react'
 import "./portfolio.css"
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg';
+import IMG1 from '../../assets/portfolio1.jpeg'
+import IMG2 from '../../assets/portfolio2.jpeg';
 import IMG3 from '../../assets/portfolio3.jpg';
-import IMG4 from '../../assets/portfolio4.jpg';
-import IMG5 from '../../assets/portfolio5.png';
-import IMG6 from '../../assets/portfolio6.jpg';
+import IMG4 from '../../assets/portfolio4.jpeg';
+import IMG5 from '../../assets/portfolio5.jpeg';
+import IMG6 from '../../assets/portfolio6.jpeg';
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Project Title",
-    github: "https://github.com",
-    demo: "https://github.com"
+    title: "MovieHUB",
+    github: "https://github.com/WarsayT/react-movie-app",
+    demo: "https://react-movie-app-hazel.vercel.app/"
   },
   {
     id: 2,
     image: IMG2,
-    title: "Project Title",
-    github: "https://github.com",
-    demo: "https://github.com"
+    title: "CSS website",
+    github: "https://github.com/WarsayT/CSS_Internship",
+    demo: "http://css-updates-website.vercel.app/"
   },
   {
     id: 3,
     image: IMG3,
-    title: "Project Title",
+    title: "Calculator-js",
     github: "https://github.com",
     demo: "https://github.com"
   },
@@ -39,16 +39,16 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: "Project Title",
-    github: "https://github.com",
-    demo: "https://github.com"
+    title: "TinDog",
+    github: "https://github.com/WarsayT/TinDog",
+    demo: "https://warsayt.github.io/TinDog/"
   },
   {
     id: 6,
     image: IMG6,
-    title: "Project Title",
-    github: "https://github.com",
-    demo: "https://github.com"
+    title: "Quiz App",
+    github: "https://github.com/WarsayT/Quiz-App-React",
+    demo: "https://quiz-app-react-one.vercel.app/"
   }
 ]
 

@@ -64,6 +64,8 @@
 
 .about__content {
     margin: 2rem 0 2.6rem;
+    display: grid;
+    gap: 1rem;
     color: var(--color-light);
 }
 
