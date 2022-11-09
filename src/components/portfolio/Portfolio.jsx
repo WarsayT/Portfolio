@@ -2,7 +2,7 @@ import React from 'react'
 import "./portfolio.css"
 import IMG1 from '../../assets/portfolio1.jpeg'
 import IMG2 from '../../assets/portfolio2.jpeg';
-import IMG3 from '../../assets/portfolio3.jpg';
+import IMG3 from '../../assets/portfolio3.jpeg';
 import IMG4 from '../../assets/portfolio4.jpeg';
 import IMG5 from '../../assets/portfolio5.jpeg';
 import IMG6 from '../../assets/portfolio6.jpeg';
@@ -25,16 +25,16 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "Calculator-js",
-    github: "https://github.com",
-    demo: "https://github.com"
+    title: "Portfolio reactjs",
+    github: "https://github.com/WarsayT/Portfolio",
+    demo: "http://portfolio-warsayt.vercel.app/"
   },
   {
     id: 4,
     image: IMG4,
-    title: "Project Title",
-    github: "https://github.com",
-    demo: "https://github.com"
+    title: "Calculator-js",
+    github: "https://github.com/WarsayT/caclulator-js",
+    demo: "https://warsayt.github.io/caclulator-js/"
   },
   {
     id: 5,
