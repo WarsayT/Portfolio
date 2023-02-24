@@ -22,18 +22,18 @@ const data = [
   },
   {
     avatar: AVTR2,
-    name: "John Snow",
-    review: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s," 
+    name: "Alexander Andom",
+    review: "I have had the pleasure of working alongside Warsay on various web development projects and I can confidently say that their attention to detail and expertise in coding is unmatched. They consistently deliver high-quality results and are a valuable asset to any team." 
   },
   {
     avatar: AVTR3,
-    name: "John Snow",
-    review: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s," 
+    name: "Haben Gaim",
+    review: "I had the pleasure of working with Warsay on a web development project and was blown away by their technical skills and attention to detail. They exceeded my expectations and delivered an exceptional website. Highly recommend!" 
   },
   {
     avatar: AVTR4,
     name: "John Snow",
-    review: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s," 
+    review: "As a web development teacher, I have seen students come and go. But, I must say that working with Warsay has been a pleasure. [Your name] has shown great dedication, hard work, and an eagerness to learn that is truly impressive. I am confident that Warsay  has a bright future in web development."
   }
 ]
 

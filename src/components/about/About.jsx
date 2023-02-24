@@ -38,9 +38,13 @@ const About = () => {
             </article>
           </div>
           <p>
-          A self-taught 😊 web developer with cyber security and networking background from Zayed University, Abu-Dhabi 🇦🇪.
+            Meet a talented web developer who is self-taught 😊 and has a solid foundation in 
+            cyber security and networking. Graduating from Zayed University in Abu-Dhabi 🇦🇪, 
+            this developer has honed their skills and expertise to create visually stunning 
+            websites that are secure and user-friendly. With their extensive knowledge in both web 
+            development and cyber security, this developer brings a unique and valuable 
+            perspective to every project they work on.
           </p>
-
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
